@@ -27,3 +27,8 @@ sklearn==0.0
 mlxtend==0.18.0
 statsmodels==0.12.2     # for time series analysis
 nltk==3.5    # text data
+
+anyascii==0.2.0        # expand contractions 1
+contractions==0.0.52   # expand contractions 2
+pyahocorasick==1.4.2   # expand contractions 3
+textsearch==0.0.21     # expand contractions 4
